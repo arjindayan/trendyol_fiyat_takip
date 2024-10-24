@@ -1,0 +1,4 @@
+ürün_link={
+    "Apple Earpods":"https://www.trendyol.com/apple/iphone-earpods-with-lightning-connector-p-674212440?boutiqueId=61&merchantId=106598",
+    "Lufian Sweatshirt":"https://www.trendyol.com/lufian/lowe-erkek-sweatshirt-siyah-p-758738509?boutiqueId=61&merchantId=104814&filterOverPriceListings=false&sav=true"
+}
